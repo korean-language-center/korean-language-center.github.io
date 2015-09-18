@@ -30,6 +30,10 @@ h2 {
 .media-body {
   font-size: 8pt;
 }
+.testimonials .media-body{
+  font-size: 12px;
+}
+
 
 #img-container {
   text-align: center;
